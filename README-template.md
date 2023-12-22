@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL: [https://github.com/jonathancwhite/frontendmentor-blog-card](https://github.com/jonathancwhite/frontendmentor-blog-card)
--   Live Site URL: [https://jonathancwhite.github.io/](https://jonathancwhite.github.io/)
+-   Live Site URL: [https://jonathancwhite.github.io/frontendmentor-blog-card/](https://jonathancwhite.github.io/frontendmentor-blog-card/)
 
 ## My process
 
